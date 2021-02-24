@@ -10,3 +10,6 @@
       with_items:
         - htop
         - cmatrix
+        - git
+        - fish
+        - vim
